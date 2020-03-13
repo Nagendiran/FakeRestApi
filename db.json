@@ -21,6 +21,18 @@
       "days": 367
     },
     {
+      "cecId": "kthanga",
+      "days": 261
+    },
+	{
+      "cecId": "ssalanke",
+      "days": 261
+    },
+	{
+      "cecId": "vagaur",
+      "days": 261
+    },
+	{
       "cecId": "TEST_USER",
       "days": 261
     },
@@ -54,6 +66,18 @@
       "cecId": "TEST_USER",
       "days": 261
     },
+	{
+      "cecId": "kthanga",
+      "days": 261
+    },
+	{
+      "cecId": "ssalanke",
+      "days": 261
+    },
+	{
+      "cecId": "vagaur",
+      "days": 261
+    },
     {
       "cecId": "TVARTIAINEN_SFC",
       "days": 378
@@ -82,6 +106,18 @@
     },
     {
       "cecId": "TEST_USER",
+      "days": 261
+    },
+	{
+      "cecId": "kthanga",
+      "days": 261
+    },
+	{
+      "cecId": "ssalanke",
+      "days": 261
+    },
+	{
+      "cecId": "vagaur",
       "days": 261
     },
     {
