@@ -15,6 +15,10 @@
     {
       "cecId": "vlnu",
       "days": 378
+    },
+	{
+      "cecId": "netvenka",
+      "days": 378
     }
   ]
 }
