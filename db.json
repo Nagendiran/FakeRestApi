@@ -1,127 +1,19 @@
 {
-  "CISCODEV.US-EAST-1": [
+  "HIP@DEV": [
     {
-      "cecId": "BO_TEST",
-      "days": 363
-    },
-    {
-      "cecId": "EDW_COLLAB_TESTSEPT12_ETL_SVC",
-      "days": 182
-    },
-    {
-      "cecId": "EDW_FUNC_ARNTEST1_SVC",
-      "days": 241
-    },
-    {
-      "cecId": "EDW_TESTSEPT12_SVC",
-      "days": 177
-    },
-    {
-      "cecId": "TDLOAD",
-      "days": 367
-    },
-    {
-      "cecId": "kthanga",
-      "days": 261
-    },
-	{
-      "cecId": "vagaur",
-      "days": 261
-    },
-	{
-      "cecId": "TEST_USER",
-      "days": 261
-    },
-	{
-      "cecId": "ssalanke",
-      "days": 261
-    },
-	{
-      "cecId": "TVARTIAINEN_SFC",
+      "cecId": "vlnu",
       "days": 378
     }
   ],
-  "CISCOSTAGE.US-EAST-1": [
+  "HUP@PRD": [
     {
-      "cecId": "BO_TEST",
-      "days": 363
-    },
-    {
-      "cecId": "EDW_COLLAB_TESTSEPT12_ETL_SVC",
-      "days": 182
-    },
-    {
-      "cecId": "EDW_FUNC_ARNTEST1_SVC",
-      "days": 241
-    },
-    {
-      "cecId": "EDW_TESTSEPT12_SVC",
-      "days": 177
-    },
-    {
-      "cecId": "TDLOAD",
-      "days": 367
-    },
-	{
-      "cecId": "sappikat",
-      "days": 261
-    },
-    {
-      "cecId": "TEST_USER",
-      "days": 261
-    },
-	{
-      "cecId": "kthanga",
-      "days": 261
-    },
-	{
-      "cecId": "vagaur",
-      "days": 261
-    },
-    {
-      "cecId": "TVARTIAINEN_SFC",
+      "cecId": "vlnu",
       "days": 378
     }
   ],
-  "CISCO.US-EAST-1": [
+  "SCD": [
     {
-      "cecId": "BO_TEST",
-      "days": 363
-    },
-    {
-      "cecId": "EDW_COLLAB_TESTSEPT12_ETL_SVC",
-      "days": 182
-    },
-    {
-      "cecId": "EDW_FUNC_ARNTEST1_SVC",
-      "days": 241
-    },
-    {
-      "cecId": "EDW_TESTSEPT12_SVC",
-      "days": 177
-    },
-    {
-      "cecId": "TDLOAD",
-      "days": 367
-    },
-    {
-      "cecId": "TEST_USER",
-      "days": 261
-    },
-	{
-      "cecId": "kthanga",
-      "days": 261
-    },
-	{
-      "cecId": "vagaur",
-      "days": 261
-    },
-	{
-      "cecId": "sappikat",
-      "days": 261
-    },
-    {
-      "cecId": "TVARTIAINEN_SFC",
+      "cecId": "vlnu",
       "days": 378
     }
   ]
