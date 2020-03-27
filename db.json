@@ -15,9 +15,14 @@
       "days": 378
     },
 	{
+      "cecId": "kudayaku",
+      "days": 378
+    },
+	{
       "cecId": "girkuma3",
       "days": 378
     }
+	
   ],
   "SCD": [
     {
